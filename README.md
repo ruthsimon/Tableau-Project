@@ -3,6 +3,5 @@ This project is an interactive data analysis dashboard built using Tableau to ex
 
 🔗 View dashboard: Click here---> (https://public.tableau.com/app/profile/ruth.simon/viz/BRITISHAIRWAYSSERVICEDASHBOARD/Dashboard1)
 
-
-<img width="1198" height="816" alt="image" src="https://github.com/user-attachments/assets/2c983954-186e-403f-ac1f-46a997d52534" />
+<img width="1099" height="639" alt="image" src="https://github.com/user-attachments/assets/0b65af02-0b80-4fca-81c4-c64eb1983527" />
 
